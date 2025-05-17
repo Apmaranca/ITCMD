@@ -1,0 +1,18 @@
+{
+  "name": "itcmd_site",
+  "version": "1.0.0",
+  "description": "Site da Legislação sobre ITCMD no Brasil",
+  "main": "index.js",
+  "scripts": {
+    "build": "node src/build.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "itcmd",
+    "legislação",
+    "tributário",
+    "imposto"
+  ],
+  "author": "",
+  "license": "MIT"
+}
