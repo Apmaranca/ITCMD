@@ -48,6 +48,23 @@ O site apresenta:
 
 O site está disponível publicamente em: [https://seeehlct.manus.space](https://seeehlct.manus.space)
 
+# Repositório Aberto da Legislação do ITCMD no Brasil
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1234567.svg)](https://doi.org/10.5281/zenodo.1234567)
+
+Este repositório reúne, de forma aberta, a legislação estadual do ITCMD – Imposto sobre Transmissão Causa Mortis e Doação – por unidade federativa no Brasil...
+
+# Bibtex (A ser alterado quando tivermos outros colaboradores)
+
+@misc{maranca2025itcmd,
+  author       = {Maranca, Alfredo Portinari},
+  title        = {Repositório Aberto da Legislação do ITCMD no Brasil},
+  year         = {2025},
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.1234567},
+  url          = {https://doi.org/10.5281/zenodo.1234567}
+}
+
 ## Licença
 
 Este projeto está licenciado sob a licença MIT - veja o arquivo LICENSE para detalhes.
